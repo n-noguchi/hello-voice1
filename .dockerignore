@@ -1,0 +1,12 @@
+.git/
+.venv/
+.hello-voice-data/
+models/
+node_modules/
+apps/desktop/node_modules/
+apps/desktop/dist/
+apps/desktop/src-tauri/target/
+services/assistant-core/*.egg-info/
+**/__pycache__/
+**/*.pyc
+*.log
